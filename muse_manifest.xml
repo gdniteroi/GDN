@@ -1,0 +1,678 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="gdn.org.br" resolutions="1x" timestamp="1467162037688">
+  <folder name="css">
+    <file name="site_global.css" crc="4129766765"/>
+    <file name="master_a-mestre.css" crc="110742132" ref="outros-membros:9ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:index:1ª-parada-do-orgulho-lgbt:legislação:10ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:sobre:5ª-parada-do-orgulho-lgbt:quem-somos:6ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt:contato:8ª-parada-do-orgulho-lgbt:paradas-do-orgulho-lgbt"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="132696341" ref="outros-membros:9ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:index:1ª-parada-do-orgulho-lgbt:legislação:10ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:sobre:5ª-parada-do-orgulho-lgbt:quem-somos:6ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt:contato:8ª-parada-do-orgulho-lgbt:paradas-do-orgulho-lgbt"/>
+    <file name="outros-membros.css" crc="328655797" ref="outros-membros"/>
+    <file name="nomq_outros-membros.css" crc="4198921219" ref="outros-membros"/>
+    <file name="9_-parada-do-orgulho-lgbt.css" crc="500988462" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="nomq_9_-parada-do-orgulho-lgbt.css" crc="76866248" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="3_-parada-do-orgulho-lgbt.css" crc="525842295" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="nomq_3_-parada-do-orgulho-lgbt.css" crc="29696947" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="index.css" crc="261652151" ref="index"/>
+    <file name="nomq_index.css" crc="527021392" ref="index"/>
+    <file name="iefonts_index.css" crc="321525473" ref="index"/>
+    <file name="1_-parada-do-orgulho-lgbt.css" crc="365277813" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="nomq_1_-parada-do-orgulho-lgbt.css" crc="463065311" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="legisla__o.css" crc="4030278507" ref="legislação"/>
+    <file name="nomq_legisla__o.css" crc="3950684956" ref="legislação"/>
+    <file name="iefonts_legisla__o.css" crc="321525473" ref="legislação"/>
+    <file name="10_-parada-do-orgulho-lgbt.css" crc="3766659276" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="nomq_10_-parada-do-orgulho-lgbt.css" crc="355487645" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="4_-parada-do-orgulho-lgbt.css" crc="4210752423" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="nomq_4_-parada-do-orgulho-lgbt.css" crc="155362915" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="2_-parada-do-orgulho-lgbt.css" crc="494652306" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="nomq_2_-parada-do-orgulho-lgbt.css" crc="4024387475" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="sobre.css" crc="4102608667" ref="sobre"/>
+    <file name="nomq_sobre.css" crc="75045407" ref="sobre"/>
+    <file name="iefonts_sobre.css" crc="321525473" ref="sobre"/>
+    <file name="5_-parada-do-orgulho-lgbt.css" crc="4239548097" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="nomq_5_-parada-do-orgulho-lgbt.css" crc="3851125974" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="quem-somos.css" crc="44958818" ref="quem-somos"/>
+    <file name="nomq_quem-somos.css" crc="4042018689" ref="quem-somos"/>
+    <file name="6_-parada-do-orgulho-lgbt.css" crc="220157224" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="nomq_6_-parada-do-orgulho-lgbt.css" crc="447160299" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="11_-parada-do-orgulho-lgbt.css" crc="4168819978" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="nomq_11_-parada-do-orgulho-lgbt.css" crc="391953872" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="contato.css" crc="314309110" ref="contato"/>
+    <file name="nomq_contato.css" crc="12555374" ref="contato"/>
+    <file name="iefonts_contato.css" crc="321525473" ref="contato"/>
+    <file name="8_-parada-do-orgulho-lgbt.css" crc="196586985" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="nomq_8_-parada-do-orgulho-lgbt.css" crc="3914730481" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="paradas-do-orgulho-lgbt.css" crc="3949502076" ref="paradas-do-orgulho-lgbt"/>
+    <file name="nomq_paradas-do-orgulho-lgbt.css" crc="3936841999" ref="paradas-do-orgulho-lgbt"/>
+  </folder>
+  <folder name="assets">
+    <file name="mobile-menu.mulib" crc="95576157" seo="true" mt="1422926114000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:sobre:paradas-do-orgulho-lgbt:legislação:quem-somos:contato:outros-membros:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="museutils.js" crc="3790713428" ref="index:sobre:paradas-do-orgulho-lgbt:legislação:quem-somos:contato:outros-membros:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="whatinput.js" crc="84559013" ref="index:sobre:paradas-do-orgulho-lgbt:legislação:quem-somos:contato:outros-membros:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:sobre:paradas-do-orgulho-lgbt:legislação:quem-somos:contato:outros-membros:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="webpro.js" crc="329496574" ref="index:sobre:paradas-do-orgulho-lgbt:legislação:quem-somos:contato:outros-membros:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index:sobre:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:sobre:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="touchswipe.js" crc="497316881" ref="index:sobre:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:sobre:paradas-do-orgulho-lgbt:legislação:quem-somos:contato:outros-membros:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:sobre:legislação:contato"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="index:sobre:paradas-do-orgulho-lgbt:legislação:quem-somos:contato:outros-membros:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sobre:paradas-do-orgulho-lgbt:legislação:quem-somos:contato:outros-membros:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:sobre:paradas-do-orgulho-lgbt:legislação:quem-somos:contato:outros-membros:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="pie.js" crc="3827607177" ref="sobre:legislação:contato"/>
+    <file name="form_check.php" crc="3805695515" ref="contato"/>
+    <file name="form_throttle.php" crc="3802629389" ref="contato"/>
+    <file name="form_process.php" crc="54267062" ref="contato"/>
+    <file name="form-u7792.php" crc="172411707" ref="contato"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4063490821" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:sobre:paradas-do-orgulho-lgbt:legislação:quem-somos:contato:outros-membros:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="logo (1).png" crc="532334464" seo="true" ref="index:sobre:paradas-do-orgulho-lgbt:legislação:quem-somos:contato:outros-membros:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="1-2.jpg" crc="4176155671" seo="true" ref="index"/>
+    <file name="2-2.jpg" crc="4009491349" seo="true" ref="index"/>
+    <file name="3-2.jpg" crc="9150949" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:sobre:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="u356902-4.png" crc="328981895" ref="index"/>
+    <file name="facenormal.png" crc="78390042" seo="true" ref="index:sobre:paradas-do-orgulho-lgbt:legislação:quem-somos:contato:outros-membros:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="facemouse.png" crc="430053585" seo="true" ref="index:sobre:paradas-do-orgulho-lgbt:legislação:quem-somos:contato:outros-membros:1ª-parada-do-orgulho-lgbt:2ª-parada-do-orgulho-lgbt:3ª-parada-do-orgulho-lgbt:4ª-parada-do-orgulho-lgbt:5ª-parada-do-orgulho-lgbt:6ª-parada-do-orgulho-lgbt:8ª-parada-do-orgulho-lgbt:9ª-parada-do-orgulho-lgbt:10ª-parada-do-orgulho-lgbt:11ª-parada-do-orgulho-lgbt"/>
+    <file name="u356902-42.png" crc="3801073179" ref="index"/>
+    <file name="menu-alt-512.png" crc="4146687026" ref="index:sobre:legislação:contato"/>
+    <file name="u356902-43.png" crc="4105822919" ref="index"/>
+    <file name="u356902-44.png" crc="4215605142" ref="index"/>
+    <file name="u356902-45.png" crc="241429586" ref="index"/>
+    <file name="u356902-46.png" crc="47712156" ref="index"/>
+    <file name="u356902-47.png" crc="175468307" ref="index"/>
+    <file name="u356902-48.png" crc="4070790144" ref="index"/>
+    <file name="u356902-49.png" crc="4141608757" ref="index"/>
+    <file name="banner.jpg" crc="195864844" seo="true" ref="sobre"/>
+    <file name="dscf0059.jpg" crc="480540782" seo="true" ref="sobre"/>
+    <file name="dscf0072.jpg" crc="3776941333" seo="true" ref="sobre"/>
+    <file name="2016-03-08 160632.jpg" crc="4271364586" seo="true" ref="sobre"/>
+    <file name="rainbow.jpg" crc="4114071958" seo="true" ref="sobre"/>
+    <file name="história.jpg" crc="3814633528" seo="true" ref="sobre"/>
+    <file name="drag oficial - vereador (breve nos cinemas) (1)-u233290.png" crc="119320206" ref="sobre"/>
+    <file name="migs8.jpg" crc="4101679386" seo="true" ref="sobre"/>
+    <file name="migs1.jpg" crc="3865725206" seo="true" ref="sobre"/>
+    <file name="dscf0096.jpg" crc="101888646" seo="true" ref="sobre"/>
+    <file name="drag oficial - vereador (breve nos cinemas) (1).jpg" crc="61729810" seo="true" ref="sobre"/>
+    <file name="dscf0096-crop-u300325.jpg" crc="3883980774" ref="sobre"/>
+    <file name="dscf0096-crop-u3003252.jpg" crc="418958030" ref="sobre"/>
+    <file name="dscf0096-crop-u3003253.jpg" crc="4001317796" ref="sobre"/>
+    <file name="dscf0096-crop-u3003254.jpg" crc="4164405474" ref="sobre"/>
+    <file name="história320x238.jpg" crc="329553089" seo="true" ref="sobre"/>
+    <file name="dscf0096-crop-u3003255.jpg" crc="4211968019" ref="sobre"/>
+    <file name="1-3.jpg" crc="3851062277" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="2.jpg" crc="420177129" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="3.jpg" crc="70411222" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="4.jpg" crc="276713608" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="5.jpg" crc="3963249281" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="6.jpg" crc="4269794666" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="8.jpg" crc="160812124" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="9.jpg" crc="25807967" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="10.jpg" crc="150106957" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="11.jpg" crc="182116203" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="1-3225x224.jpg" crc="485661782" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="2225x224.jpg" crc="520759029" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="3225x224.jpg" crc="247887662" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="5225x224.jpg" crc="42300707" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="8225x224.jpg" crc="394837751" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="10225x224.jpg" crc="261764560" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="4225x224.jpg" crc="3895736461" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="6225x224.jpg" crc="4118079185" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="9225x224.jpg" crc="450770294" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="11225x224.jpg" crc="4044771440" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="1-3224x224.jpg" crc="485661782" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="3224x224.jpg" crc="247887662" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="4224x223.jpg" crc="3895736461" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="5224x224.jpg" crc="42300707" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="6224x224.jpg" crc="4118079185" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="8224x224.jpg" crc="394837751" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="9225x225.jpg" crc="3867439962" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="10225x225.jpg" crc="71237300" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="11224x224.jpg" crc="4044771440" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="1-3195x195.jpg" crc="411052782" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="2196x195.jpg" crc="3826235640" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="3195x195.jpg" crc="502244293" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="4195x194.jpg" crc="420593872" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="5195x195.jpg" crc="233320064" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="6195x194.jpg" crc="471777481" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="8195x195.jpg" crc="3965241919" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="9196x195.jpg" crc="4167982529" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="10196x195.jpg" crc="3860932490" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="11196x196.jpg" crc="4128887749" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="1-3174x173.jpg" crc="417731855" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="2174x174.jpg" crc="4032091427" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="3174x173.jpg" crc="4158904611" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="4173x173.jpg" crc="204465183" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="5174x173.jpg" crc="3879245512" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="6173x173.jpg" crc="4123062877" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="8174x173.jpg" crc="3883025659" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="9174x174.jpg" crc="122332437" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="10174x174.jpg" crc="278577370" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="11174x174.jpg" crc="4041734170" seo="true" ref="paradas-do-orgulho-lgbt"/>
+    <file name="carol1.jpg" crc="261742577" seo="true" ref="quem-somos"/>
+    <file name="carol2.jpg" crc="4080379320" seo="true" ref="quem-somos"/>
+    <file name="vini1.jpg" crc="3819705921" seo="true" ref="quem-somos"/>
+    <file name="vini2.jpg" crc="4256287528" seo="true" ref="quem-somos"/>
+    <file name="felipe1.jpg" crc="450060446" seo="true" ref="quem-somos"/>
+    <file name="larissa1.jpg" crc="264329205" seo="true" ref="quem-somos"/>
+    <file name="rosi1.jpg" crc="181852241" seo="true" ref="quem-somos"/>
+    <file name="rosi2.jpg" crc="3819127879" seo="true" ref="quem-somos"/>
+    <file name="larissa2.jpg" crc="63129706" seo="true" ref="quem-somos"/>
+    <file name="felipe2.jpg" crc="300634143" seo="true" ref="quem-somos"/>
+    <file name="quintas1.jpg" crc="26311426" seo="true" ref="quem-somos"/>
+    <file name="quintas2.jpg" crc="4161206145" seo="true" ref="quem-somos"/>
+    <file name="bruna1.jpg" crc="3871498653" seo="true" ref="quem-somos"/>
+    <file name="bruna2.jpg" crc="498516497" seo="true" ref="quem-somos"/>
+    <file name="rick1.jpg" crc="4012175547" seo="true" ref="quem-somos"/>
+    <file name="francis1.jpg" crc="423528863" seo="true" ref="quem-somos"/>
+    <file name="agnaldo1.jpg" crc="366404968" seo="true" ref="quem-somos"/>
+    <file name="agnaldo2.jpg" crc="3805000858" seo="true" ref="quem-somos"/>
+    <file name="francis2.jpg" crc="3923944153" seo="true" ref="quem-somos"/>
+    <file name="rick2.jpg" crc="3806030137" seo="true" ref="quem-somos"/>
+    <file name="edu1.jpg" crc="341875763" seo="true" ref="quem-somos"/>
+    <file name="edu2.jpg" crc="107359022" seo="true" ref="quem-somos"/>
+    <file name="wolf1.jpg" crc="4194319663" seo="true" ref="quem-somos"/>
+    <file name="wolf2.jpg" crc="433616837" seo="true" ref="quem-somos"/>
+    <file name="bruno1.jpg" crc="4017113145" seo="true" ref="quem-somos"/>
+    <file name="olavo1.jpg" crc="366967994" seo="true" ref="quem-somos"/>
+    <file name="olavo2.jpg" crc="40622854" seo="true" ref="quem-somos"/>
+    <file name="bruno2.jpg" crc="4059338375" seo="true" ref="quem-somos"/>
+    <file name="rosi2-1.jpg" crc="531196218" seo="true" ref="quem-somos"/>
+    <file name="rosi2-2.jpg" crc="4151907307" seo="true" ref="quem-somos"/>
+    <file name="josé1.jpg" crc="307511631" seo="true" ref="quem-somos"/>
+    <file name="renato1.jpg" crc="3801857465" seo="true" ref="quem-somos"/>
+    <file name="josé2.jpg" crc="3923920126" seo="true" ref="quem-somos"/>
+    <file name="renato2.jpg" crc="156605722" seo="true" ref="quem-somos"/>
+    <file name="u7808-17.png" crc="4122176672" ref="contato"/>
+    <file name="u7808-17-r.png" crc="3854164875" ref="contato"/>
+    <file name="u7808-17-m.png" crc="351850910" ref="contato"/>
+    <file name="u7808-17-fs.png" crc="4289776026" ref="contato"/>
+    <file name="u7808-172.png" crc="4122176672" ref="contato"/>
+    <file name="u7808-17-r2.png" crc="3854164875" ref="contato"/>
+    <file name="u7808-17-m2.png" crc="351850910" ref="contato"/>
+    <file name="u7808-17-fs2.png" crc="4289776026" ref="contato"/>
+    <file name="u7808-173.png" crc="4122176672" ref="contato"/>
+    <file name="u7808-17-r3.png" crc="3854164875" ref="contato"/>
+    <file name="u7808-17-m3.png" crc="351850910" ref="contato"/>
+    <file name="u7808-17-fs3.png" crc="4289776026" ref="contato"/>
+    <file name="u7808-174.png" crc="4122176672" ref="contato"/>
+    <file name="u7808-17-r4.png" crc="3854164875" ref="contato"/>
+    <file name="u7808-17-m4.png" crc="351850910" ref="contato"/>
+    <file name="u7808-17-fs4.png" crc="4289776026" ref="contato"/>
+    <file name="u7808-175.png" crc="4122176672" ref="contato"/>
+    <file name="u7808-17-r5.png" crc="3854164875" ref="contato"/>
+    <file name="u7808-17-m5.png" crc="351850910" ref="contato"/>
+    <file name="u7808-17-fs5.png" crc="4289776026" ref="contato"/>
+    <file name="u7808-176.png" crc="4122176672" ref="contato"/>
+    <file name="u7808-17-r6.png" crc="3854164875" ref="contato"/>
+    <file name="u7808-17-m6.png" crc="351850910" ref="contato"/>
+    <file name="u7808-17-fs6.png" crc="4289776026" ref="contato"/>
+    <file name="u7808-177.png" crc="4122176672" ref="contato"/>
+    <file name="u7808-17-r7.png" crc="3854164875" ref="contato"/>
+    <file name="u7808-17-m7.png" crc="351850910" ref="contato"/>
+    <file name="u7808-17-fs7.png" crc="4289776026" ref="contato"/>
+    <file name="u7808-178.png" crc="4122176672" ref="contato"/>
+    <file name="u7808-17-r8.png" crc="3854164875" ref="contato"/>
+    <file name="u7808-17-m8.png" crc="351850910" ref="contato"/>
+    <file name="u7808-17-fs8.png" crc="4289776026" ref="contato"/>
+    <file name="u7808-179.png" crc="4122176672" ref="contato"/>
+    <file name="u7808-17-r9.png" crc="3854164875" ref="contato"/>
+    <file name="u7808-17-m9.png" crc="351850910" ref="contato"/>
+    <file name="u7808-17-fs9.png" crc="4289776026" ref="contato"/>
+    <file name="u7808-1710.png" crc="4122176672" ref="contato"/>
+    <file name="u7808-17-r10.png" crc="3854164875" ref="contato"/>
+    <file name="u7808-17-m10.png" crc="351850910" ref="contato"/>
+    <file name="u7808-17-fs10.png" crc="4289776026" ref="contato"/>
+    <file name="u7808-1711.png" crc="235575915" ref="contato"/>
+    <file name="u7808-17-r11.png" crc="277950366" ref="contato"/>
+    <file name="u7808-17-m11.png" crc="9221950" ref="contato"/>
+    <file name="u7808-17-fs11.png" crc="425467953" ref="contato"/>
+    <file name="beijo na praia de icarai.jpg" crc="4072200050" seo="true" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="faixa das mães do gdn.jpg" crc="4097742027" seo="true" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="fala de abertura da 1º parada (renato marques).jpg" crc="113128440" seo="true" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="grupo amores de nova friburgo.jpg" crc="4254298354" seo="true" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="placas1.jpg" crc="509443930" seo="true" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="vista trio2.jpg" crc="407210549" seo="true" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="vista trio3.jpg" crc="230134379" seo="true" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138369-4.png" crc="333292408" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138384-4.png" crc="3971974433" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138369-42.png" crc="333292408" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138384-42.png" crc="3971974433" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138369-43.png" crc="333292408" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138384-43.png" crc="3971974433" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138369-44.png" crc="333292408" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138384-44.png" crc="3971974433" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138369-45.png" crc="333292408" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138384-45.png" crc="3971974433" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138369-46.png" crc="333292408" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138384-46.png" crc="3971974433" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138369-47.png" crc="333292408" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138384-47.png" crc="3971974433" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138369-48.png" crc="333292408" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138384-48.png" crc="3971974433" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138369-49.png" crc="333292408" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138384-49.png" crc="3971974433" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138369-410.png" crc="333292408" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="u138384-410.png" crc="3971974433" ref="1ª-parada-do-orgulho-lgbt"/>
+    <file name="bandeirão noite.jpg" crc="4138436822" seo="true" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="banner2.jpg" crc="4265852282" seo="true" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="banner3.jpg" crc="3812379199" seo="true" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="banner4n.jpg" crc="4220064777" seo="true" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="contra a homofobia.jpg" crc="196108552" seo="true" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="deputado carlos santana discursando.jpg" crc="470675237" seo="true" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="fala de abertura da parada.jpg" crc="4188604549" seo="true" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="mães do gdn cartaz.jpg" crc="69473209" seo="true" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="placa1.jpg" crc="4072655993" seo="true" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="presidente do capa, silmar, discursando.jpg" crc="208473244" seo="true" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="secretária de assistência social, heloisa mesquita discursando.jpg" crc="323357696" seo="true" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="secretário municipal de direitos humanos, leonardo brandão discursando.jpg" crc="141971492" seo="true" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="trio oficial do gdn - entrando na praia de icaraí.jpg" crc="4239186151" seo="true" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="vereador waldeck carneiro discursando.jpg" crc="219377653" seo="true" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138957-4.png" crc="333292408" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138959-4.png" crc="3971974433" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138957-42.png" crc="333292408" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138959-42.png" crc="3971974433" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138957-43.png" crc="333292408" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138959-43.png" crc="3971974433" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138957-44.png" crc="333292408" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138959-44.png" crc="3971974433" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138957-45.png" crc="333292408" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138959-45.png" crc="3971974433" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138957-46.png" crc="333292408" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138959-46.png" crc="3971974433" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138957-47.png" crc="333292408" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138959-47.png" crc="3971974433" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138957-48.png" crc="333292408" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138959-48.png" crc="3971974433" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138957-49.png" crc="333292408" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138959-49.png" crc="3971974433" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138957-410.png" crc="333292408" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="u138959-410.png" crc="3971974433" ref="2ª-parada-do-orgulho-lgbt"/>
+    <file name="bandeira.jpg" crc="4025101091" seo="true" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="desenho banner.jpg" crc="4218874973" seo="true" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="pessoas.jpg" crc="4011614387" seo="true" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="pessoas2.jpg" crc="4108739247" seo="true" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="trio elétrico.jpg" crc="4209105401" seo="true" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="trio elétrico2.jpg" crc="4121628481" seo="true" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="trio elétrico3.jpg" crc="298430598" seo="true" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="trio elétrico4.jpg" crc="276591474" seo="true" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="trio elétrico5.jpg" crc="423613848" seo="true" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u139998-4.png" crc="333292408" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u140010-4.png" crc="3971974433" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u139998-42.png" crc="333292408" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u140010-42.png" crc="3971974433" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u139998-43.png" crc="333292408" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u140010-43.png" crc="3971974433" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u139998-44.png" crc="333292408" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u140010-44.png" crc="3971974433" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u139998-45.png" crc="333292408" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u140010-45.png" crc="3971974433" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u139998-46.png" crc="333292408" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u140010-46.png" crc="3971974433" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u139998-47.png" crc="333292408" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u140010-47.png" crc="3971974433" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u139998-48.png" crc="333292408" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u140010-48.png" crc="3971974433" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u139998-49.png" crc="333292408" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u140010-49.png" crc="3971974433" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u139998-410.png" crc="333292408" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="u140010-410.png" crc="3971974433" ref="3ª-parada-do-orgulho-lgbt"/>
+    <file name="camisa.jpg" crc="42400405" seo="true" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="drag queens.jpg" crc="3852070102" seo="true" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="migo fabuloso.jpg" crc="4057705363" seo="true" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="migos fabulosos.jpg" crc="3928727943" seo="true" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="moça voluntária (lay your hands on me).jpg" crc="534337609" seo="true" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="moças voluntárias.jpg" crc="3777778821" seo="true" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="público.jpg" crc="119110227" seo="true" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="voluntários assinatura.jpg" crc="3838382036" seo="true" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140653-4.png" crc="333292408" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140665-4.png" crc="3971974433" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140653-42.png" crc="333292408" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140665-42.png" crc="3971974433" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140653-43.png" crc="333292408" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140665-43.png" crc="3971974433" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140653-44.png" crc="333292408" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140665-44.png" crc="3971974433" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140653-45.png" crc="333292408" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140665-45.png" crc="3971974433" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140653-46.png" crc="333292408" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140665-46.png" crc="3971974433" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140653-47.png" crc="333292408" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140665-47.png" crc="3971974433" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140653-48.png" crc="333292408" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140665-48.png" crc="3971974433" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140653-49.png" crc="333292408" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140665-49.png" crc="3971974433" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140653-410.png" crc="333292408" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="u140665-410.png" crc="3971974433" ref="4ª-parada-do-orgulho-lgbt"/>
+    <file name="3a presidente do gdn, rosiléa marques.jpg" crc="160053077" seo="true" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="dominique laurence e eula rochard.jpg" crc="242345042" seo="true" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="dominique laurence.jpg" crc="530377957" seo="true" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="eula rochard.jpg" crc="4066822310" seo="true" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="eula rochard2.jpg" crc="357475178" seo="true" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="guarda íris.jpg" crc="199929549" seo="true" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="kary furacão.jpg" crc="150535908" seo="true" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="público 2.jpg" crc="4210809381" seo="true" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="público 3.jpg" crc="3868908619" seo="true" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="público 4.jpg" crc="4118941075" seo="true" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="público 5.jpg" crc="3956891240" seo="true" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="público2.jpg" crc="31836053" seo="true" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="rainha transex.jpg" crc="72677123" seo="true" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141643-4.png" crc="333292408" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141655-4.png" crc="3971974433" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141643-42.png" crc="333292408" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141655-42.png" crc="3971974433" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141643-43.png" crc="333292408" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141655-43.png" crc="3971974433" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141643-44.png" crc="333292408" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141655-44.png" crc="3971974433" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141643-45.png" crc="333292408" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141655-45.png" crc="3971974433" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141643-46.png" crc="333292408" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141655-46.png" crc="3971974433" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141643-47.png" crc="333292408" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141655-47.png" crc="3971974433" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141643-48.png" crc="333292408" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141655-48.png" crc="3971974433" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141643-49.png" crc="333292408" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141655-49.png" crc="3971974433" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141643-410.png" crc="333292408" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="u141655-410.png" crc="3971974433" ref="5ª-parada-do-orgulho-lgbt"/>
+    <file name="abraço.jpg" crc="3828618249" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="abraço2.jpg" crc="390815813" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="banner4.jpg" crc="3824899645" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="diretoria.jpg" crc="3868384206" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="drag.jpg" crc="4217309297" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="drag2.jpg" crc="18352279" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="drag3.jpg" crc="264892311" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="drag4.jpg" crc="3878569185" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="fantasia.jpg" crc="436486296" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="militancia.jpg" crc="3810520283" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="militantes.jpg" crc="4219251445" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="público3.jpg" crc="245255386" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="público22.jpg" crc="3839429086" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="público32.jpg" crc="4285059750" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="telão e público.jpg" crc="4212819372" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="telão.jpg" crc="502229384" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="vereador e migo.jpg" crc="4069021022" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="victor de wolf.jpg" crc="295863288" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="vista do trio.jpg" crc="3918946476" seo="true" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142454-4.png" crc="333292408" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142453-4.png" crc="3971974433" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142454-42.png" crc="333292408" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142453-42.png" crc="3971974433" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142454-43.png" crc="333292408" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142453-43.png" crc="3971974433" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142454-44.png" crc="333292408" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142453-44.png" crc="3971974433" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142454-45.png" crc="333292408" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142453-45.png" crc="3971974433" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142454-46.png" crc="333292408" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142453-46.png" crc="3971974433" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142454-47.png" crc="333292408" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142453-47.png" crc="3971974433" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142454-48.png" crc="333292408" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142453-48.png" crc="3971974433" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142454-49.png" crc="333292408" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142453-49.png" crc="3971974433" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142454-410.png" crc="333292408" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="u142453-410.png" crc="3971974433" ref="6ª-parada-do-orgulho-lgbt"/>
+    <file name="balão.jpg" crc="371414699" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="cartaz.jpg" crc="516511397" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="dj.jpg" crc="425232907" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="drag _ queer.jpg" crc="4044601028" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="drag5.jpg" crc="24625391" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="drag22.jpg" crc="4137907288" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="drag32.jpg" crc="4092550663" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="drag42.jpg" crc="3835003583" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="drag52.jpg" crc="3930878341" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="drag6.jpg" crc="234733846" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="drags.jpg" crc="4009082960" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="público4.jpg" crc="335118620" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="público23.jpg" crc="4233494795" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="público33.jpg" crc="4097025820" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="público42.jpg" crc="4176680178" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="público5.jpg" crc="530370198" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="vista do trio2.jpg" crc="4294360728" seo="true" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143215-4.png" crc="333292408" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143214-4.png" crc="3971974433" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143215-42.png" crc="333292408" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143214-42.png" crc="3971974433" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143215-43.png" crc="333292408" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143214-43.png" crc="3971974433" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143215-44.png" crc="333292408" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143214-44.png" crc="3971974433" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143215-45.png" crc="333292408" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143214-45.png" crc="3971974433" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143215-46.png" crc="333292408" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143214-46.png" crc="3971974433" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143215-47.png" crc="333292408" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143214-47.png" crc="3971974433" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143215-48.png" crc="333292408" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143214-48.png" crc="3971974433" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143215-49.png" crc="333292408" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143214-49.png" crc="3971974433" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143215-410.png" crc="333292408" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="u143214-410.png" crc="3971974433" ref="8ª-parada-do-orgulho-lgbt"/>
+    <file name="muscles.jpg" crc="113689125" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="bandeira2.jpg" crc="275991410" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="bandeira22.jpg" crc="41979501" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="bandeira3.jpg" crc="177135629" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="beijo.jpg" crc="4127565066" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="dj2.jpg" crc="4251947407" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="drag oficial - vereador (breve nos cinemas).jpg" crc="3850197363" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="drag oficial.jpg" crc="3914940759" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="drag oficial2.jpg" crc="232884103" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="drag oficial3.jpg" crc="4092056402" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="drag oficial4.jpg" crc="241484033" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="famoso.jpg" crc="4254818877" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="migs.jpg" crc="178193027" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="migs2.jpg" crc="3945936762" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="migs3.jpg" crc="3790341360" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="migs4.jpg" crc="3978051663" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="migs5.jpg" crc="205148426" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="migs6 - vereador.jpg" crc="4083205212" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="migs7.jpg" crc="57445218" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="migs82.jpg" crc="483199601" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="migs9.jpg" crc="514465983" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="miss.jpg" crc="4061736969" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="penas.jpg" crc="4026904762" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="público6.jpg" crc="451237371" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="público24.jpg" crc="4037796442" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="público34.jpg" crc="347288439" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="público43.jpg" crc="123314883" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="taissa taisinha.jpg" crc="3893112500" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="trio noite.jpg" crc="313020418" seo="true" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143939-4.png" crc="333292408" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143938-4.png" crc="3971974433" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143939-42.png" crc="333292408" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143938-42.png" crc="3971974433" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143939-43.png" crc="333292408" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143938-43.png" crc="3971974433" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143939-44.png" crc="333292408" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143938-44.png" crc="3971974433" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143939-45.png" crc="333292408" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143938-45.png" crc="3971974433" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143939-46.png" crc="333292408" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143938-46.png" crc="3971974433" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143939-47.png" crc="333292408" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143938-47.png" crc="3971974433" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143939-48.png" crc="333292408" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143938-48.png" crc="3971974433" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143939-49.png" crc="333292408" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143938-49.png" crc="3971974433" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143939-410.png" crc="333292408" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="u143938-410.png" crc="3971974433" ref="9ª-parada-do-orgulho-lgbt"/>
+    <file name="almir frança.jpg" crc="4047648138" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="balão3.jpg" crc="416406921" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="bandeira4.jpg" crc="3864367305" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="banner5.jpg" crc="3797598173" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="banner22.jpg" crc="261634987" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="carlos - eula - drag oficial.jpg" crc="3984680425" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="carlos minc.jpg" crc="250057767" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="dj - público.jpg" crc="509254400" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="dj22.jpg" crc="3786581341" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="drag oficial5.jpg" crc="337349337" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="dragoficial - muscles.jpg" crc="3918098804" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="dragoficial2.jpg" crc="491243915" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="dragoficial3.jpg" crc="177921381" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="eula - carlos - rosangela.jpg" crc="497236766" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="eula.jpg" crc="3992067189" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="eula2.jpg" crc="526952799" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="eula3.jpg" crc="481591601" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="eula4.jpg" crc="3793402969" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="eula5.jpg" crc="283849010" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="eula6.jpg" crc="194138267" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="eula7.jpg" crc="100600199" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs - público.jpg" crc="4155195188" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs - vereadores.jpg" crc="166881063" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs6.jpg" crc="3865112874" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs22.jpg" crc="4186273560" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs83.jpg" crc="406462197" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs92.jpg" crc="3971489251" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs10.jpg" crc="4235303646" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs11.jpg" crc="3975474763" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs12.jpg" crc="4195727855" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs14.jpg" crc="151611473" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs16.jpg" crc="353719534" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs17.jpg" crc="343522423" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs20.jpg" crc="128447125" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs21.jpg" crc="4252598391" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs24.jpg" crc="205115506" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs28.jpg" crc="4041979838" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="migs29.jpg" crc="1012837" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="misses _ drags.jpg" crc="316288321" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="público7.jpg" crc="120019818" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="público2 protesto.jpg" crc="3995620279" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="público35.jpg" crc="4252576901" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="público44.jpg" crc="3767176476" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="público52.jpg" crc="3905062839" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="público62.jpg" crc="3866979274" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="público72.jpg" crc="508413414" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="spikes.jpg" crc="4220231427" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="vereador (carlos minc) - público.jpg" crc="301521920" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="vereadores - públicos.jpg" crc="4003125739" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="vereadores.jpg" crc="521154225" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="victor de wolf2.jpg" crc="160571765" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="victor de wolf22.jpg" crc="4279213550" seo="true" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144336-4.png" crc="333292408" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144335-4.png" crc="3971974433" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144336-42.png" crc="333292408" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144335-42.png" crc="3971974433" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144336-43.png" crc="333292408" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144335-43.png" crc="3971974433" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144336-44.png" crc="333292408" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144335-44.png" crc="3971974433" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144336-45.png" crc="333292408" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144335-45.png" crc="3971974433" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144336-46.png" crc="333292408" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144335-46.png" crc="3971974433" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144336-47.png" crc="333292408" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144335-47.png" crc="3971974433" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144336-48.png" crc="333292408" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144335-48.png" crc="3971974433" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144336-49.png" crc="333292408" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144335-49.png" crc="3971974433" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144336-410.png" crc="333292408" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="u144335-410.png" crc="3971974433" ref="10ª-parada-do-orgulho-lgbt"/>
+    <file name="anjo.jpg" crc="454134385" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="amor vence o ódio.jpg" crc="157911846" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="bandeira23.jpg" crc="3865412214" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="banner6.jpg" crc="221725667" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="banner32.jpg" crc="254596756" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="banner42.jpg" crc="3972515135" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="banner52.jpg" crc="4197435973" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="beijo2.jpg" crc="4230092858" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="beijo22.jpg" crc="402605296" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="beijo3.jpg" crc="237602647" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="beijo4.jpg" crc="3929118068" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="bidiversadade.jpg" crc="460629795" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="cartaz2.jpg" crc="152034656" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="cartaz22.jpg" crc="499775448" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="dominique laurance.jpg" crc="93494562" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="drag7.jpg" crc="3765677482" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="equipe de prevenção.jpg" crc="151058749" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="eula - plúbico.jpg" crc="3803031851" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="eula8.jpg" crc="95015267" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="eula22.jpg" crc="4169002600" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="fabio lima - subsecretário da codir - prefeitura de niterói.jpg" crc="219222217" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="felipe.jpg" crc="453072672" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="felipe22.jpg" crc="3928716767" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="grupo arraial free presente.jpg" crc="4220075018" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="grupo gay atitude de são gonçalo presente.jpg" crc="4243900712" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="jesus te aceita.jpg" crc="247520825" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="kid.jpg" crc="4043074440" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="leo giordano.jpg" crc="384158084" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="migs13.jpg" crc="53873444" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="migs23.jpg" crc="4192307648" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="migs32.jpg" crc="4046514553" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="migs42.jpg" crc="4080007574" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="migs52.jpg" crc="3767574940" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="migs62.jpg" crc="3916076476" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="migs72.jpg" crc="498913850" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="migs84.jpg" crc="4277476612" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="migs93.jpg" crc="3866852969" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="migs102.jpg" crc="3860688921" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="migs112.jpg" crc="4003497059" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="migs122.jpg" crc="4003550792" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="migs132.jpg" crc="37315126" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="migs142.jpg" crc="273603148" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="pérola fenix.jpg" crc="4076677822" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="publico.jpg" crc="488344291" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="público25.jpg" crc="4078010684" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="público36.jpg" crc="522763669" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="público45.jpg" crc="147198823" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="público53.jpg" crc="3857923370" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="purpurina2.jpg" crc="311808409" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="rainbow2.jpg" crc="3839519960" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="rodolfo tavares - dce da uff.jpg" crc="4109552993" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="sindicato dos profissionais de educação sepe.jpg" crc="4063119529" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="tatoo.jpg" crc="533132144" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="teresa cosentino - secretária estadual de assistência social e direitos humanos.jpg" crc="3886911171" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="trio.jpg" crc="92770757" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="vereador paulo eduardo gomes.jpg" crc="313584265" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="vereadora verônica lima.jpg" crc="179533082" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="waldeck carneiro (deputado estadual).jpg" crc="248867457" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="luz.jpg" crc="476255193" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="púrpurina.jpg" crc="11902776" seo="true" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145870-4.png" crc="333292408" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145857-4.png" crc="3971974433" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145870-42.png" crc="333292408" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145857-42.png" crc="3971974433" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145870-43.png" crc="333292408" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145857-43.png" crc="3971974433" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145870-44.png" crc="333292408" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145857-44.png" crc="3971974433" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145870-45.png" crc="333292408" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145857-45.png" crc="3971974433" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145870-46.png" crc="333292408" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145857-46.png" crc="3971974433" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145870-47.png" crc="333292408" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145857-47.png" crc="3971974433" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145870-48.png" crc="333292408" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145857-48.png" crc="3971974433" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145870-49.png" crc="333292408" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145857-49.png" crc="3971974433" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145870-410.png" crc="333292408" ref="11ª-parada-do-orgulho-lgbt"/>
+    <file name="u145857-410.png" crc="3971974433" ref="11ª-parada-do-orgulho-lgbt"/>
+  </folder>
+  <file name="index.html" crc="4275420203" seo="true" mt="1467160294422" redirect="true"/>
+  <file name="sobre.html" crc="306283100" seo="true" mt="1467160294422" redirect="true"/>
+  <file name="paradas-do-orgulho-lgbt.html" crc="3852980493" seo="true" mt="1467160294422" redirect="true"/>
+  <file name="legislação.html" crc="4268951755" seo="true" mt="1467160294422" redirect="true"/>
+  <file name="quem-somos.html" crc="4109936297" seo="true" mt="1467160294422" redirect="true"/>
+  <file name="contato.html" crc="4026571053" seo="true" mt="1467160294422" redirect="true"/>
+  <file name="outros-membros.html" crc="3881692608" seo="true" mt="1467160294422" redirect="true"/>
+  <file name="1ª-parada-do-orgulho-lgbt.html" crc="475385957" seo="true" mt="1467160294422" redirect="true"/>
+  <file name="2ª-parada-do-orgulho-lgbt.html" crc="508609049" seo="true" mt="1467160294422" redirect="true"/>
+  <file name="3ª-parada-do-orgulho-lgbt.html" crc="4160586564" seo="true" mt="1467160294422" redirect="true"/>
+  <file name="4ª-parada-do-orgulho-lgbt.html" crc="3841785629" seo="true" mt="1467160294422" redirect="true"/>
+  <file name="5ª-parada-do-orgulho-lgbt.html" crc="26933352" seo="true" mt="1467160294422" redirect="true"/>
+  <file name="6ª-parada-do-orgulho-lgbt.html" crc="4001232359" seo="true" mt="1467160294422" redirect="true"/>
+  <file name="8ª-parada-do-orgulho-lgbt.html" crc="3887103054" seo="true" mt="1467160294422" redirect="true"/>
+  <file name="9ª-parada-do-orgulho-lgbt.html" crc="422767895" seo="true" mt="1467160294422" redirect="true"/>
+  <file name="10ª-parada-do-orgulho-lgbt.html" crc="528192418" seo="true" mt="1467160294422" redirect="true"/>
+  <file name="11ª-parada-do-orgulho-lgbt.html" crc="478166557" seo="true" mt="1467160294422" redirect="true"/>
+</manifest>
